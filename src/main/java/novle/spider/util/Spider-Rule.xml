@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sites>
+    <site>
+        <title>顶点小说</title>
+        <charset>GBK</charset>
+        <url>https://www.x23us.com</url>
+        <chapter-list-selecttor>#at td a</chapter-list-selecttor>
+    </site>
+    <site>
+        <title>笔趣阁</title>
+        <charset>utf-8</charset>
+        <url>http://www.biquge.com.tw</url>
+        <chapter-list-selecttor>#list dd a</chapter-list-selecttor>
+    </site>
+    <site>
+        <title>顶点小说</title>
+        <charset>GBK</charset>
+        <url>https://www.x23us.com/</url>
+        <chapter-list-selecttor>#at td a</chapter-list-selecttor>
+    </site>
+</sites>
